@@ -1,0 +1,35 @@
+.kontakts {
+    margin-left: 6%;
+    margin-top: 1%;
+}
+
+.infoK {
+    color: azure;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.bg-success {
+    background-color: rgb(66, 87, 84);
+}
+
+.foterstyle {
+    background-color: rgb(66, 87, 84);
+    color: azure;
+}
+
+.textstyleF {
+    color: azure;
+}
+
+.bodystyle {
+    background-color: rgb(66, 87, 84);
+}
+
+.bodystyle2 {
+    background-color: rgb(58, 77, 74);
+}
+
+.textcolorL {
+    color: rgb(154, 199, 243);
+}
